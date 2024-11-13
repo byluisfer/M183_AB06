@@ -10,6 +10,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "@vrbo/pino-rotating-file": "^4.4.0",
+    "express": "^4.18.2",
+    "pino-http": "^10.3.0"
   }
 }
